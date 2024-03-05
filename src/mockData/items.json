@@ -1,0 +1,14 @@
+[
+    { "id": 1, "parent_id": 1, "name": "Пила", "flags": "" },
+    { "id": 2, "parent_id": 1, "name": "Челюсти 1", "flags": "" },
+    { "id": 3, "parent_id": 1, "name": "Челюсти 2", "flags": "" },
+    { "id": 4, "parent_id": 2, "name": "Один дома", "flags": "" },
+    { "id": 5, "parent_id": 2, "name": "Иван Васильевич меняет профессию", "flags": "" },
+    { "id": 6, "parent_id": 2, "name": "Один дома 2", "flags": "" },
+    { "id": 7, "parent_id": 3, "name": "Пассажиры", "flags": "" },
+    { "id": 8, "parent_id": 3, "name": "Живое", "flags": "" },
+    { "id": 9, "parent_id": 3, "name": "Прибытие", "flags": "" },
+    { "id": 10, "parent_id": 4, "name": "Леон", "flags": "" },
+    { "id": 11, "parent_id": 4, "name": "Переводчик", "flags": "" },
+    { "id": 12, "parent_id": 4, "name": "Крепкий орешек", "flags": "" }
+]

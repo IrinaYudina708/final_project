@@ -1,0 +1,17 @@
+.div_container {
+    text-align: center;
+  }
+.div_container li{
+    display:inline;
+    color: #292d34;
+    padding-right: 10px;
+}
+.div_container li.active{
+    color: rgb(34, 119, 153);
+}
+.dropdown .div_container{
+    visibility: hidden;
+}
+.dropdown.opened .div_container{
+    visibility: visible;
+}
